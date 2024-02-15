@@ -1,0 +1,8 @@
+select * from role_mapping; -- rm6
+
+select * from role_details;
+select * from employee_details;
+
+insert into role_mapping (empid,role_id) values ('N4000','R6')
+
+delete from role_mapping where map_id = 'RM11'

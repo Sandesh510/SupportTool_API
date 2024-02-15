@@ -1,0 +1,9 @@
+serial_no,asset_type,make_model,quantity,location,condition,empid,processor,generation,disk_type,disk_size,ram,po_number,purchased_date,status,expires_in,updated_by
+SN1001,Laptop,Dell Inspiron,1,Office A,Good,N4142,I5,8,SSD,256,8,PO123,31-12-2023,Active ,12,N4142
+SN1002,Desktop,HP Pavilion,2,Office B,Excellent,N4002,I7,9,HDD,512,16,PO124,31-12-2023,Active ,12,N4142
+SN1003,Laptop,Dell Inspiron,1,Office A,Good,N4142,I5,8,SSD,256,8,PO123,31-12-2023,Active ,12,N4142
+SN1004,Desktop,HP Pavilion,2,Office B,Excellent,N4002,I7,9,HDD,512,16,PO124,31-12-2023,Active ,12,N4142
+SN1005,Laptop,Dell Inspiron,1,Office A,Good,N4142,I5,8,SSD,256,8,PO123,31-12-2023,Active ,12,N4142
+SN1006,Desktop,HP Pavilion,2,Office B,Excellent,N4002,I7,9,HDD,512,16,PO124,31-12-2023,Active ,12,N4142
+SN1007,Laptop,Dell Inspiron,1,Office A,Good,N4142,I5,8,SSD,256,8,PO123,31-12-2023,Active ,12,N4142
+SN1008,Desktop,HP Pavilion,2,Office B,Excellent,N4002,I7,9,HDD,512,16,PO124,31-12-2023,Active ,12,N4142
